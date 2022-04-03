@@ -1,0 +1,6 @@
+Commands
+--------
+
+* del       Delete files/folders
+* erase     Alternative to delete
+* start     Open programs
