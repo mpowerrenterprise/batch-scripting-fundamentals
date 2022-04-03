@@ -1,0 +1,7 @@
+Commands
+--------
+
+* copy       Copy folders/files Ex: [copy folder-1 D:\]
+* move       Move folders/files Ex: [move folder-1 D:\]
+* ren        Rename files/folders
+* rename     Alternative to ren
