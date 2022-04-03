@@ -1,0 +1,9 @@
+Commands
+--------
+
+* cd          Change directory
+* cd ..       Go back
+* cd ../..    Go two folders back
+* chdir       Alternative to cd
+* dir         Show folders and files in current directory
+* tree        Show folders and files in a tree structure
