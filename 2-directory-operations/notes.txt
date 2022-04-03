@@ -1,0 +1,8 @@
+Commands
+--------
+
+* md      		Create folders
+* rm      		Remove folders
+* mkdir   		Alternative to md
+* rmdir   		Alternative to rm
+* rmdir /s /q 		Remove a folder that contains sub-files and sub-folders
