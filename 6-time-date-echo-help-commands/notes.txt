@@ -1,0 +1,10 @@
+Commands
+--------
+
+* time    Show the current time of the system
+
+* date    Show the current date of the system
+
+* echo    To display text, create files
+
+* help    To help on using CMD.
