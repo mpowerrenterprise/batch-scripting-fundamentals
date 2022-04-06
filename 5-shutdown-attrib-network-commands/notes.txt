@@ -1,0 +1,24 @@
+Commands
+--------
+
+* attrib +s +h +r   	Hide files and folders
+
+* attrib -s -h -r   	Show files and folders
+
+* shutdown -s     	To shutdown computer
+
+* shutdown -r           To restart computer
+
+* shutdown -l           To logout computer
+
+* shutdown /s /t 30     To shutdown computer with timer
+
+* shutdown /r /t 30     To restart computer with timer
+
+* ipconfig  		To list out network interfaces
+
+* ipconfig/all  	To list out network interfaces in details
+
+* ping                  To check network connectivity
+
+* cls                   To clear CMD
