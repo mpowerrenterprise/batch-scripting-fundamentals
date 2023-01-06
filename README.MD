@@ -11,8 +11,9 @@ Batch programming is a scripting paradigm that can execute certain commands auto
 
 This scripts are based on a YouTube tutorial that was posted as playlist at GR Tech School Channel.
 
-* Batch Playlist: https://www.youtube.com/playlist?list=PLk4mEzA6dvTJaXd4GEp_CVMpjWauGWdKY
+* Training Series English: https://www.youtube.com/playlist?list=PLk4mEzA6dvTJaXd4GEp_CVMpjWauGWdKY
 
+* Training Series Tamil: https://www.youtube.com/playlist?list=PLlswr-wq4Gu2WxCtntBgUKyLgJgkWINj6
 
 
 Social Media Links
