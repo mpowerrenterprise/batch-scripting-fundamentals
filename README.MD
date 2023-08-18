@@ -19,7 +19,7 @@ This scripts are based on a YouTube tutorial that was posted as playlist at GR T
 ## Social Links
 
 * [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
-* [Facebook Profile](https://www.facebook.com/gunarakulangr.page)
+* [Facebook Profile](https://www.facebook.com/gunarakulangunaratnam)
 * [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
 * [Twitter Profile ](https://twitter.com/gunarakulangr)
 * [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
