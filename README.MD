@@ -1,4 +1,4 @@
-# BATCH SCRIPTING BASIC FUNDAMENTALS
+# Batch Scripting Fundamentals
 
 ## Introduction
 
@@ -9,10 +9,8 @@ This repository contains scripts that explain the fundamentals of Batch programm
 
 Batch programming is a scripting paradigm that can execute certain commands automatically at the level of an operating system such as DOS or Windows 7 / XP. A batch file is a stack of such commands. If it is retrieved with the command line, the system will execute each task listed in succession.
 
-* YouTube: https://www.youtube.com/playlist?list=PLlswr-wq4Gu2WxCtntBgUKyLgJgkWINj6
 
-
-# CONTACT
+# Contact
 
 ### Website: 
 
