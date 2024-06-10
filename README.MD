@@ -1,4 +1,4 @@
-# Batch Scripting Basic Fundamentals
+# BATCH SCRIPTING BASIC FUNDAMENTALS
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Batch programming is a scripting paradigm that can execute certain commands auto
 
 ### Website: 
 
-[![Website](https://img.shields.io/badge/Website%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+[![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](https://www.gunarakulan.info)
 
 ### Social Media:
 
